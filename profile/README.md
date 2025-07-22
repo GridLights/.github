@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-this is the root level for GridLights Software and Hardware Github Projects
+This is the root level for GridLights Software and Hardware Github Projects.
+
+We build the world's most advanced light fixtures to make spaces more beautiful. 
 <!--
 
 **Here are some ideas to get you started:**
