@@ -1,6 +1,9 @@
 <div align="center">
 
-# GridLights
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GridLights/.github/main/profile/assets/lockup-white.png">
+  <img alt="GridLights" src="https://raw.githubusercontent.com/GridLights/.github/main/profile/assets/lockup-black.png" width="560">
+</picture>
 
 ### Responsive light for the built environment
 
